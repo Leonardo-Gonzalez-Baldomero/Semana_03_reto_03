@@ -1,4 +1,4 @@
-# RETO SEMANA 02 - VENTAS
+# RETO SEMANA 03 - VENTAS
 Repositorio para la segunda tarea de la semana 3 en Programación para la Ciencia de Datos.
 
 ## Descripción
