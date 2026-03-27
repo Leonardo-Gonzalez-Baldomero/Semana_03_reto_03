@@ -58,10 +58,10 @@ def main():
         reverse=True
     )
     
-    # Imprimir salida
+  # Imprimir salida
     print("producto,unidades_vendidas,ingreso_total,precio_promedio")
     for nombre, datos in productos_ordenados:
-        print(f"{nombre},{datos[\'unidades\']},{datos[\'ingreso\']:.2f},{datos[\'promedio\']:.2f}")
+        print(f"{nombre},{datos['unidades']},{datos['ingreso']:.2f},{datos['promedio']:.2f}")
 
 if __name__ == "__main__":
     main()
